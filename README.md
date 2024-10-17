@@ -1,18 +1,15 @@
-# [Global: HTML5 website template](http://buckymaler.com/global)
+Sobre o projeto
+Este site foi desenvolvido com o intuito de apresentar o portfólio e algumas das funcionalidades criadas ao longo da minha jornada como analista de sistemas. Ele visa demonstrar a interface e a proposta de navegação, destacando a criatividade e a integração de diferentes áreas de conhecimento, como desenvolvimento de software, interatividade e design.
 
-### [Featured on Freebiesbug](http://freebiesbug.com/psd-freebies/global-futuristic-one-page-portfolio-psd-html/)
+Estado atual do projeto
+Atualmente, o site não está 100% funcional. Muitas das funções ainda estão em desenvolvimento, e grande parte do conteúdo exibido é mais voltada para visualização e demonstração do layout, navegação e design do que para uso prático completo.
 
-Global is a modern and sleek website template crafted for professionals in the creative industry. Global can serve as a single page portfolio or be easily modified to serve as the perfect beginning for a hip creative agency.
+Algumas seções interativas, como formulários e botões de ação, podem não estar totalmente operacionais.
+A navegação entre as páginas e as animações funcionam corretamente, mas sem toda a lógica por trás implementada.
+O foco no momento está em apresentar a experiência visual e o conceito geral do projeto.
+Futuras atualizações
+Estou constantemente trabalhando para aprimorar as funcionalidades e implementar os recursos que ainda estão em desenvolvimento. Assim, em futuras atualizações, o site estará mais interativo e dinâmico, incluindo:
 
-The original PSD is included and was provided by [Sergey Melnik](https://www.behance.net/SergeyMelnik).
-
-This project was developed with HTML5, Sass, jQuery, and Hammer.js.
-
-Performance basics are covered: assets are minified into single CSS and JS files, and the images are optimized.
-
-[LIVE PREVIEW](http://buckymaler.com/global)
-
-## Misc:
-
-* Follow Bucky: [Twitter](https://twitter.com/BuckyMaler), [GitHub](https://github.com/BuckyMaler)
-* Follow Sergey: [Dribbble](https://dribbble.com/sergeymelnik), [Bēhance](https://www.behance.net/SergeyMelnik)
+Funcionalidades completas dos formulários e interações.
+Implementação de lógica para manipulação de dados e respostas a interações do usuário.
+Melhorias na performance e usabilidade geral.
